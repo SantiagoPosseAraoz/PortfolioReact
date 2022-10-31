@@ -50,10 +50,10 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Full-Stack developer skills",
     "skills":[
       {
-        "skillname":"Node.js"
+        "skillname":"NodeJs"
       },
       {
         "skillname":"Javascript"
@@ -62,10 +62,15 @@ let resumeData = {
         "skillname":"Typescript"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"ReactJs"
       }      
     ],
     "portfolio":[
+      {
+        "name":"Broken Office",
+        "description":"Globant professional project",
+        "imgurl":"images/portfolio/coffee.jpg"
+      },
       {
         "name":"V-Book",
         "description":"E-Commerce",
