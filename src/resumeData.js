@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Santiago José Posse Aráoz",
+    "role": "Full-Stack developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
@@ -69,12 +69,12 @@ let resumeData = {
       {
         "name":"V-Book",
         "description":"E-Commerce",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
         "name":"TMDB",
         "description":"Class project",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"images/portfolio/coffee.jpg"
       },
     ],
     "testimonials":[
