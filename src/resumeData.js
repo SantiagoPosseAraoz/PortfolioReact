@@ -69,17 +69,20 @@ let resumeData = {
       {
         "name":"Broken Office",
         "description":"Globant professional project",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/portfolio/coffee.jpg",
+        "link":"https://google.com"
       },
       {
         "name":"V-Book",
         "description":"E-Commerce",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/portfolio/coffee.jpg",
+        "link":"https://google.com"
       },
       {
         "name":"TMDB",
         "description":"Class project",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/portfolio/coffee.jpg",
+        "link":"https://google.com"
       },
     ],
     "testimonials":[
