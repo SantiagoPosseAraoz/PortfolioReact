@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2022",
-        "Achievements":"Platafoma 5's coding bootcamp is a 800+ hours course dedicated to teach IT's most used technologies such as Javascript, PostgreSQL, Node.js, React.js and Express in just 4 months. Also during the bootcamp we take part in team projects, like building a e-commerce from the ground up, and working under the supervision of a real commpany"
+        "Achievements":"Platafoma 5's coding bootcamp is a 800+ hours course dedicated to teach IT's most used technologies such as Javascript, PostgreSQL, Node.js, React.js and Express in just 4 months. Also during the bootcamp we take part in team projects, like building a e-commerce from the ground up, and working under the supervision of a real commpany."
       }
     ],
     "work":[
@@ -40,14 +40,14 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2022",
-        "Achievements":`Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI.`
+        "Achievements":`Mobile/web application that allows company's employees to report problems at their workspace, using tools like geolocation and AI. This project was built by a team of 5 people in just 4 weeks. This project uses MERN technologies, Firebase, Google Cloud Services, Chakra UI, Swagger, Storybook, Mocha-Chai and more.`
       },
       {
         "CompanyName":"V-Book - E-commerce",
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Sept",
         "YearOfLeaving":"2022",
-        "Achievements":"Web aplication destined to sell and promote virtual books. It is a minimalistic book store, with a refined selection of products."
+        "Achievements":"Web aplication destined to sell and promote virtual books. It is a minimalistic book store, with a refined selection of products. This project was built by a team of 5 people in just 2 weeks. It uses PERN technologies, NodeMailer, Google/Facebook/Github OAuth and more."
       }
     ],
     "skillsDescription":"Full-Stack developer skills",
