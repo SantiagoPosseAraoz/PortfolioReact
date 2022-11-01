@@ -75,7 +75,7 @@ let resumeData = {
       {
         "name":"V-Book",
         "description":"E-Commerce",
-        "imgurl":"images/portfolio/V.jpg",
+        "imgurl":"images/portfolio/V-logo.svg.png",
         "link":"https://github.com/SantiagoPosseAraoz/V-Book"
       },
       {
