@@ -40,7 +40,7 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2022",
-        "Achievements":`Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI. Some of the main features are:
+        "Achievements":`Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI. Some of the main features are:\n
         Image tagging (Google Vision AI) || Live chat(Firebase) || Progressive Web Application(PWA) || QR Code reader (React QR Reader) || Testing (Mocha-Chai) || Documentation (Swagger and Storybook)`
       },
       {
