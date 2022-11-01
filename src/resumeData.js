@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-Stack developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " I'm a problem-solving enthusiast who discovered that Back End technologies are their favorite way of challenge. I'm looking to take on more dificult projects and solidify my  place in the IT industry.",
+    "roleDescription": " I'm a problem-solving enthusiast who discovered a passion in software development. I'm looking to take on more dificult projects and find my  place in the IT industry.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2022",
-        "Achievements":"800+ hours of coding experience || MERN and PERN stacks || Agile methodologies || Team projects"
+        "Achievements":"Platafoma 5's coding bootcamp is a 800+ hours course dedicated to teach IT's most used technologies such as Javascript, PostgreSQL, Node.js, React.js and Express in just 4 months. Also during the bootcamp we take part in team projects, like building a e-commerce from the ground up, and working under the supervision of a real commpany"
       }
     ],
     "work":[
