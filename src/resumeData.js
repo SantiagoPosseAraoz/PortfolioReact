@@ -18,20 +18,20 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "url":"https://www.instagram.com/santi_posse_a/",
+          "className":"fa fa-instagram"
         }
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Argentina",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://taupe-froyo-7099c6.netlify.app/#home",
     "education":[
       {
         "UniversityName":"Plataforma 5 - Coding bootcamp",
         "specialization":"Full-Stack developer",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2022",
-        "Achievements":"Some Achievements"
+        "Achievements":"-800+ hours of coding experience\n-MERN and PERN stacks\n-Agile methodologies\n-Team projects"
       }
     ],
     "work":[
@@ -40,14 +40,14 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2022",
-        "Achievements":"Some Achievements"
+        "Achievements":"Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI\n-Image tagging (Google Vision AI)\n-Live chat(Firebase)\n-Progressive Web Application(PWA)\n-QR Code reader (React QR Reader)\n-testing (Mocha-Chai)\n-Documentation (Swagger and Storybook)"
       },
       {
         "CompanyName":"V-Book - E-commerce",
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Sept",
         "YearOfLeaving":"2022",
-        "Achievements":"Some Achievements"
+        "Achievements":"Web aplication destined to sell and promote virtual books. It is a minimalistic book store, with a refined selection of products."
       }
     ],
     "skillsDescription":"Full-Stack developer skills",
