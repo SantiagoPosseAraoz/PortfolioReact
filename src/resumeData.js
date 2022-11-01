@@ -69,19 +69,19 @@ let resumeData = {
       {
         "name":"Broken Office",
         "description":"Globant professional project",
-        "imgurl":"images/portfolio/coffee.jpg",
+        "imgurl":"images/portfolio/globantLogo.jpeg",
         "link":"https://github.com/SantiagoPosseAraoz/Broken-Office"
       },
       {
         "name":"V-Book",
         "description":"E-Commerce",
-        "imgurl":"images/portfolio/coffee.jpg",
+        "imgurl":"images/portfolio/VbookLogo.jpg",
         "link":"https://github.com/SantiagoPosseAraoz/V-Book"
       },
       {
         "name":"TMDB",
         "description":"Class project",
-        "imgurl":"images/portfolio/coffee.jpg",
+        "imgurl":"images/portfolio/TMDBlogo.jpg",
         "link":"https://github.com/SantiagoPosseAraoz/TMDB"
       },
     ],
