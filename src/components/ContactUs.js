@@ -1,26 +1,19 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 export default class ContactUs extends Component {
   render() {
     //let resumeData = this.props.resumeData;
     return (
       <section id="contact">
-          <div className="row section-head">
-            <div className="ten columns">
+        <div className="row section-head">
+          <div className="ten columns">
+            <a href="mailto:santiposse2000@gmail.com?subject = Contact&body = Message">
               <p className="lead">
-              Feel free to contact me for any work or suggestions below
+                Contact me
               </p>
-            </div>
+            </a>
           </div>
-          {/* <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
-                </h4>
-              </div>
-            </aside>
-          </div> */}
-        </section>
-        );
+        </div>
+      </section>
+    );
   }
 }
