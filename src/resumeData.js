@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2022",
-        "Achievements":"-800+ hours of coding experience\n-MERN and PERN stacks\n-Agile methodologies\n-Team projects"
+        "Achievements":"-800+ hours of coding experience \n -MERN and PERN stacks \n -Agile methodologies \n -Team projects"
       }
     ],
     "work":[
@@ -40,7 +40,7 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2022",
-        "Achievements":"Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI\n-Image tagging (Google Vision AI)\n-Live chat(Firebase)\n-Progressive Web Application(PWA)\n-QR Code reader (React QR Reader)\n-testing (Mocha-Chai)\n-Documentation (Swagger and Storybook)"
+        "Achievements":"Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI \n -Image tagging (Google Vision AI) \n -Live chat(Firebase) \n -Progressive Web Application(PWA) \n -QR Code reader (React QR Reader) \n -testing (Mocha-Chai) \n -Documentation (Swagger and Storybook)"
       },
       {
         "CompanyName":"V-Book - E-commerce",
