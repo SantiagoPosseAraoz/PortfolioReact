@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-instagram"
         }
       ],
-    "aboutme":"I am currently a freelance full-stack developer who likes to learn new things. At the moment i'm diving deeper in AWS and machine learning, which i find fascinating. I believe that to be successful in life, one needs to be idealistic with their dreams and realistic with their goals towards them, so you never stop getting closer to where you dream to be.",
+    "aboutme":"I am currently a freelance full-stack developer who likes to learn new things. At the moment i'm diving deeper in AWS and machine learning, which i find fascinating. I believe that to be successful in life, one needs to be idealistic with their dreams and realistic with their goals towards them, so you never stop getting closer to where you want to be.",
     "address":"Santiposse2000@gmail.com",
     "website":"https://taupe-froyo-7099c6.netlify.app/#home",
     "education":[
