@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-Stack developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I'm a problem-solving enthusiast who discovered that Back End technologies are their favorite way of challenge. I'm looking to take on more dificult projects and solidify my  place in the IT industry.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -40,8 +40,7 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2022",
-        "Achievements":`Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI. Some of the main features are:\n
-        Image tagging (Google Vision AI) || Live chat(Firebase) || Progressive Web Application(PWA) || QR Code reader (React QR Reader) || Testing (Mocha-Chai) || Documentation (Swagger and Storybook)`
+        "Achievements":`Mobile/web application that allows companys employees to report problems at their workspace, using tools like geolocation and AI.`
       },
       {
         "CompanyName":"V-Book - E-commerce",
