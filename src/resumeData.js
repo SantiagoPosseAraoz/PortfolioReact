@@ -70,7 +70,7 @@ let resumeData = {
         "name":"Broken Office",
         "description":"Globant professional project",
         "imgurl":"images/portfolio/globantLogo.jpeg",
-        "link":"https://github.com/SantiagoPosseAraoz/Broken-Office"
+        "link":"https://broken-office.netlify.app/"
       },
       {
         "name":"V-Book",
