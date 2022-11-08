@@ -100,7 +100,7 @@ let resumeData = {
       {
         "name":"CRM",
         "description":"Class project",
-        "imgurl":"https://www.superoffice.com/contentassets/4ea5c9a357e1497db015d857890fcea3/crm-strategy.jpg",
+        "imgurl":"https://www.perfectviewcrm.com/wp-content/uploads/sites/7/2018/08/PerfectView-What-is-CRM.png",
         "link":"https://minimalist-crm.netlify.app/"
       }
     ],
