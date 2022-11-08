@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Full-Stack developer",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2022",
-        "Achievements":"Platafoma 5's coding bootcamp is a 800+ hours course dedicated to teach IT's most used technologies such as Javascript, PostgreSQL, Node.js, React.js and Express in just 4 months. Also during the bootcamp we take part in team projects, like building a e-commerce from the ground up, and working under the supervision of a real commpany."
+        "Achievements":"Platafoma 5's coding bootcamp is a 800+ hours course dedicated to teach IT's most used technologies such as Javascript, PostgreSQL, Node.js, React.js and Express in just 4 months. Also during the bootcamp we take part in team projects, like building a e-commerce from the ground up, and working under the supervision of a real company."
       }
     ],
     "work":[
@@ -63,7 +63,13 @@ let resumeData = {
       },
       {
         "skillname":"ReactJs"
-      }      
+      },
+      {
+        "skillname":"MongoDB"
+      },     
+      {
+        "skillname":"PostgreSQL"
+      }     
     ],
     "portfolio":[
       {
