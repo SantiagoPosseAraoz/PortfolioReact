@@ -80,6 +80,12 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"CRM",
+        "description":"Individual project",
+        "imgurl":"https://www.perfectviewcrm.com/wp-content/uploads/sites/7/2018/08/PerfectView-What-is-CRM.png",
+        "link":"https://minimalist-crm.netlify.app/"
+      },
+      {
         "name":"Broken Office",
         "description":"Globant professional project",
         "imgurl":"images/portfolio/globantLogo.jpeg",
@@ -96,12 +102,6 @@ let resumeData = {
         "description":"Class project",
         "imgurl":"images/portfolio/TMDBlogo.jpg",
         "link":"https://github.com/SantiagoPosseAraoz/TMDB"
-      },
-      {
-        "name":"CRM",
-        "description":"Class project",
-        "imgurl":"https://www.perfectviewcrm.com/wp-content/uploads/sites/7/2018/08/PerfectView-What-is-CRM.png",
-        "link":"https://minimalist-crm.netlify.app/"
       }
     ],
     "testimonials":[
