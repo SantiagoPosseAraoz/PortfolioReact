@@ -36,6 +36,13 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Freelance work",
+        "specialization":"Full-Stack developer",
+        "MonthOfLeaving":"Oct",
+        "YearOfLeaving":"2022 - present",
+        "Achievements":`On going project focused on creating an intuitive CRM software focused on being an easy way to learn this kind of technologies. It will use AWS (S3 and EC2), Docker, Typescript, Angular and MySQL to become as performing as it can be.`
+      },
+      {
         "CompanyName":"Globant",
         "specialization":"Full-Stack developer",
         "MonthOfLeaving":"Oct",
@@ -90,6 +97,12 @@ let resumeData = {
         "imgurl":"images/portfolio/TMDBlogo.jpg",
         "link":"https://github.com/SantiagoPosseAraoz/TMDB"
       },
+      {
+        "name":"CRM",
+        "description":"Class project",
+        "imgurl":"https://www.superoffice.com/contentassets/4ea5c9a357e1497db015d857890fcea3/crm-strategy.jpg",
+        "link":"https://minimalist-crm.netlify.app/"
+      }
     ],
     "testimonials":[
       {
